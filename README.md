@@ -18,8 +18,8 @@ Based on the implementation of the paper of [Color Transfer Between Images](http
 
 # Results
 
-    ![result.jpg](result//1.png)
-    ![result.jpg](result//2png)
+![result.jpg](images//test1.png)
+![result.jpg](images//test2.png)
 
 # References
 
