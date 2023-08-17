@@ -9,14 +9,17 @@ Based on the implementation of the paper of [Color Transfer Between Images](http
 - Read BMP file (source/target image)
 - Calculate the mean and STD of each channel
 - Implement the RGB color transfer algorithm
+
   - Convert images from RGB to ℓαβ color space
   - Statistics and color correction
-  - 
-    ![equation1.jpg](images//equation1.JPG)
-    
+  - ![equation1.jpg](images//equation1.JPG)
+
     ![equation.jpg](images/equation2.JPG)
 
 # Results
+
+    ![result.jpg](result//1.png)
+    ![result.jpg](result//2png)
 
 # References
 
