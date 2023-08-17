@@ -17,7 +17,7 @@ Based on the implementation of the paper of [Color Transfer Between Images](http
     ![equation.jpg](images/equation2.JPG)
 
 # Results
-
+#### Source / Target / Result
 ![result.jpg](images//test1.png)
 ![result.jpg](images//test2.png)
 
