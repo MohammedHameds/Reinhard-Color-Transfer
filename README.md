@@ -11,8 +11,10 @@ Based on the implementation of the paper of [Color Transfer Between Images](http
 - Implement the RGB color transfer algorithm
   - Convert images from RGB to ℓαβ color space
   - Statistics and color correction
-    ![equation.png](images/equation1.jpg)
-    ![equation.png](images/equation2.jpg)
+  - 
+    ![equation1.jpg](images//equation1.JPG)
+    
+    ![equation.jpg](images/equation2.JPG)
 
 # Results
 
